@@ -4,12 +4,8 @@
 
 <img src = "https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" align="center" width="200" height = "200">
 
-### Reach out to me
 
-[<img width="22" src="https://unpkg.com/simple-icons@v4/icons/linkedin.svg" align="left"/>][linkedin]
-[<img width="22" src="https://unpkg.com/simple-icons@4.25.0/icons/instagram.svg" align="left"/>][instagram]
-
-<br/>
+## I am currently working on mobile application development with Dart-Flutter
 
 ### Languages and Tools
 
@@ -34,8 +30,14 @@
 
 <img align="left" src= "https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="24" height="24">
 
-
 <br/>
+
+
+### Reach out to me
+
+[<img width="22" src="https://unpkg.com/simple-icons@v4/icons/linkedin.svg" align="left"/>][linkedin]
+[<img width="22" src="https://unpkg.com/simple-icons@4.25.0/icons/instagram.svg" align="left"/>][instagram]
+
 <br/>
 <br/>
 
