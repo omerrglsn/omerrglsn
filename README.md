@@ -7,6 +7,7 @@
 ### Reach out to me
 
 [<img width="22" src="https://unpkg.com/simple-icons@v4/icons/linkedin.svg" align="left"/>][linkedin]
+[<img width="22" src="https://unpkg.com/simple-icons@4.25.0/icons/instagram.svg" align="left"/>][instagram]
 
 <br/>
 
@@ -49,3 +50,4 @@
 </details>
 
 [linkedin]: https://www.linkedin.com/in/%C3%B6mer-faruk-g%C3%BCl%C5%9Fen-280a77216/
+[instagram]: https://www.instagram.com/omerrglsn/
