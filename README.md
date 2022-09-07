@@ -2,7 +2,7 @@
 
 ### Hi there, I'm Ömer.
 
-<img src = "https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" align="center" width="320" height = "320">
+<img src = "https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" align="center" width="200" height = "200">
 
 ### Reach out to me
 
