@@ -1,4 +1,4 @@
-<img src = "https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" align="right" width="360" height = "360">
+<img src = "https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" align="right" width="320" height = "320">
 
 ### Hi there, I'm Ömer.
 
