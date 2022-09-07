@@ -1,8 +1,8 @@
-<img src = "https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" align="right" width="320" height = "320">
+
 
 ### Hi there, I'm Ömer.
 
-## Dart-Flutter Developer
+<img src = "https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" align="center" width="320" height = "320">
 
 ### Reach out to me
 
